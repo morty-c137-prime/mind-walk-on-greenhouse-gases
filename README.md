@@ -52,7 +52,7 @@ As solar radiation enters the Atmosphere different molecules reflect harmful UV 
 > The atmosphere controls the amount of solar radiation reaching the surface of the earth, and regulates the amount of radiation from the Earth escaping into space. Even seemingly slight changes in the concentrations of certain gases could upset the balance of reactions and be detrimental to life as we know it. We will now explain these two exchanges in detail, and later discuss their relevance to two major environmental problems: global climate change and stratospheric ozone depletion.  
 
 ## Sources
-+ Youtube<sup>[1](https://www.youtube.com/watch?v=sTvqIijqvTg)</sup> video introducing concepts.  
++ Youtube video introducing concepts<sup>[1](https://www.youtube.com/watch?v=sTvqIijqvTg)</sup>
 + The Sun & its Energy<sup>[2](http://environ.andrew.cmu.edu/m3/s2/02sun.shtml)</sup>
 + Earth & its Atmosphere<sup>[3](http://environ.andrew.cmu.edu/m3/s2/03earthatmos.shtml)</sup>
 + Solar Radiation in the Atmosphere<sup>[4](http://environ.andrew.cmu.edu/m3/s2/04solarad.shtml)</sup>
